@@ -1,5 +1,7 @@
 # Cafe-in
 
+## 소상공인 카페를 위한 쿠폰 통합 웹앱 플랫폼
+
 <div>
     <img src="img/readme_main.png" width="101" style="display: inline-block; margin-right: 10px;"/>
     <img src="img/readme_main2.png" width="100" style="display: inline-block; margin-right: 10px;"/>

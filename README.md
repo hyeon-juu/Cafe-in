@@ -19,11 +19,11 @@
 <table>
   <tr>
     <td>언어</td>
-    <td>Javascript, HTML, CSS</td>
+    <td>Javascript, HTML, CSS, PHP</td>
   </tr>
   <tr>
     <td>서버</td>
-    <td>PHP, Apache Tomcat 10</td>
+    <td>Apache Tomcat 10</td>
   </tr>
   <tr>
     <td>라이브러리</td>

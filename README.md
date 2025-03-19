@@ -1,6 +1,9 @@
 # Cafe-in
 
-![cafe-in image](img/cafe_in_readme.png)
+<img src="img/readme_main.png" width="101" />
+<img src="img/readme_main2.png" width="100" />
+<img src="img/readme_stamp.png" width="100" />
+<img src="img/readme_events.png" width="100" />
 
 ## 개발 목적
 

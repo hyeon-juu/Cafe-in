@@ -1,9 +1,9 @@
 # Cafe-in
 
-<img src="img/readme_main.png" width="101" />
-<img src="img/readme_main2.png" width="100" />
-<img src="img/readme_stamp.png" width="100" />
-<img src="img/readme_events.png" width="100" />
+<img src="img/readme_main.png" width="101" style="display: inline-block; margin-right: 10px;"/>
+<img src="img/readme_main2.png" width="100" style="display: inline-block; margin-right: 10px;"/>
+<img src="img/readme_stamp.png" width="100" style="display: inline-block; margin-right: 10px;"/>
+<img src="img/readme_events.png" width="100" style="display: inline-block; margin-right: 10px;"/>
 
 ## 개발 목적
 
